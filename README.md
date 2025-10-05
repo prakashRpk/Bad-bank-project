@@ -1,12 +1,12 @@
-Bad Bank Project
+#Bad Bank Project
 
 A simple React-based banking application developed as part of the MIT Fullstack Development with MERN program.
 
-🚀 Project Overview
+##🚀 Project Overview
 
 The Bad Bank application serves as a capstone project for Module 2 of the MIT Fullstack Development with MERN program. It is designed to demonstrate core React concepts, including hooks, context, routing, and form validations. The application intentionally exposes user data in the UI to simulate real-world scenarios. Additionally, it showcases the deployment of a React application using AWS S3 Buckets.
 
-🛠️ Features
+##🛠️ Features
 
 Account Management: Create, edit, and delete user accounts.
 
@@ -16,7 +16,7 @@ Transactions: Deposit, withdraw, and view transaction history.
 
 Charts: Visual representation of account balances and transaction trends.
 
-⚙️ Technologies Used
+##⚙️ Technologies Used
 
 React JS
 
@@ -32,7 +32,7 @@ Bootstrap
 
 ChartJS
 
-🧪 Installation & Setup
+##🧪 Installation & Setup
 
 Clone the repository:
 
@@ -57,23 +57,23 @@ npm start
 Open http://localhost:3000
  in your browser to view the application.
 
-📦 Deployment
+##📦 Deployment
 
 The application is deployed using AWS S3 Buckets. You can access the live version here:
 
 Bad Bank
 
-🧠 Future Enhancements
+##🧠 Future Enhancements
 
 Implement backend services for persistent data storage.
 
 Allow users to upload and manage their avatars.
 
-🧑‍💻 Author
+##🧑‍💻 Author
 
 Kevin Grimaldi
 Student at MIT Fullstack Development with MERN
 
-📄 License
+##📄 License
 
 This project is licensed under the MIT License.
