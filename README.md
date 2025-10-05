@@ -34,22 +34,22 @@ ChartJS
 
 ## 🧪 Installation & Setup
 
-Clone the repository:
+### Clone the repository:
 
 git clone https://github.com/prakashRpk/Bad-bank-project.git
 
 
-Navigate into the project directory:
+### Navigate into the project directory:
 
 cd Bad-bank-project
 
 
-Install dependencies:
+### Install dependencies:
 
 npm install
 
 
-Start the development server:
+### Start the development server:
 
 npm start
 
@@ -59,7 +59,7 @@ Open http://localhost:3000
 
 ## 📦 Deployment
 
-The application is deployed using AWS S3 Buckets. You can access the live version here:
+### The application is deployed using AWS S3 Buckets. You can access the live version here:
 
 Bad Bank
 
@@ -74,6 +74,6 @@ Allow users to upload and manage their avatars.
 Kevin Grimaldi
 Student at MIT Fullstack Development with MERN
 
-##📄 License
+## 📄 License
 
 This project is licensed under the MIT License.
